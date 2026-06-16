@@ -8,6 +8,7 @@ Classification of suspicious and non-suspicious transactions
 Model training, evaluation, and performance analysis
 Visualization of results using Python libraries
 Scalable approach for financial crime detection
+
 ->Technologies Used
 Python
 TensorFlow / Keras
